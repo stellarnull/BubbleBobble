@@ -1,0 +1,9 @@
+XXXXXXXXXXXXXXXX
+X E     E   S  X
+XFFF  FFFFFFF  X
+X  E   E       X
+XFFFFFFF   FFFFX
+X    E  E      X
+X  FFFFFFFFFF  X
+XP             X
+XXXXXXXXXXXXXXXX
